@@ -80,6 +80,10 @@ Resource: https://www.youtube.com/watch?v=Ey18PDiaAYI
 
 ### **3.2 Customer Support Automation**  
 **Goal**: Auto-reply to customer emails using AI.  
+
+<img width="678" height="368" alt="Screenshot 2025-08-16 at 2 47 25 AM" src="https://github.com/user-attachments/assets/fb9a9178-82db-4161-817a-338c352d4317" />
+
+
 **Steps**:  
 1. **Trigger**: New email in Gmail.  
 2. **AI Classifier**: Is this a support request?  
@@ -88,6 +92,10 @@ Resource: https://www.youtube.com/watch?v=Ey18PDiaAYI
 
 ### **3.3 LinkedIn Content Creator**  
 **Goal**: Auto-generate posts + graphics.  
+
+<img width="982" height="368" alt="Screenshot 2025-08-16 at 2 47 58 AM" src="https://github.com/user-attachments/assets/15adeec5-d0b3-48bd-8462-20936542e65b" />
+
+
 **Steps**:  
 1. **Trigger**: Scheduled daily or manual run.  
 2. **Research**: Tavly (web search) → finds trending topics.  
