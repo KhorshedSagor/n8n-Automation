@@ -63,6 +63,9 @@ Resource: https://www.youtube.com/watch?v=Ey18PDiaAYI
 ## **Section 3: Step-by-Step Builds**  
 ### **3.1 RAG Pipeline & Chatbot**  
 **Goal**: Build a chatbot that answers questions using a **Pinecone vector database**.  
+
+<img width="849" height="440" alt="Screenshot 2025-08-16 at 2 44 50 AM" src="https://github.com/user-attachments/assets/d0b78c6d-28e5-4a7f-abca-f49821c5f825" />
+
 **Steps**:  
 1. **Trigger**: New file in Google Drive (FAQ document).  
 2. **Process**:  
