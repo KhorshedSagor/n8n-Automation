@@ -144,6 +144,10 @@ Resource: https://www.youtube.com/watch?v=Ey18PDiaAYI
 
 ---
 
+### Tavily - web search for context API provider
+### Firecrawl - Provides API for data scraping
+### Apify - Data scraping tool
+
 ## **Key Takeaways for Revision**  
 ✅ **AI Workflows** = Fixed steps | **AI Agents** = Autonomous decisions.  
 ✅ **n8n Basics**: Workflows, nodes, JSON, executions.  
